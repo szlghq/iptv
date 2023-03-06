@@ -14,10 +14,24 @@ http://api2.52tb.xyz/info?id=156&token=20230305eptdaz
 http://api2.52tb.xyz/info?id=157&token=20230305eptdaz
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="" group-title="4K频道",北京IPTV4K
 http://api2.52tb.xyz/info?id=901&token=20230305eptdaz
-#EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="" group-title="4K频道",4K超高清电影
-http://api2.52tb.xyz/info?id=900&token=20230305eptdaz
 #EXTINF:-1 tvg-name="4K-UHD" tvg-logo="0" group-title="4K频道",4K-UHD
 http://api2.52tb.xyz/info?id=158&token=20230305eptdaz
+#EXTINF:-1 tvg-name="4K影视1" tvg-logo="0" group-title="4K频道",4K影视1
+http://api2.52tb.xyz/info?id=159&token=20230305eptdaz
+#EXTINF:-1 tvg-name="4K影视2" tvg-logo="0" group-title="4K频道",4K影视2
+http://api2.52tb.xyz/info?id=160&token=20230305eptdaz
+#EXTINF:-1 tvg-name="江苏4K" tvg-logo="" group-title="4K频道",江苏4K
+http://api2.52tb.xyz/info?id=902&token=20230305eptdaz
+#EXTINF:-1 tvg-name="Fashion4K" tvg-logo="0" group-title="4K频道",Fashion4K
+http://api2.52tb.xyz/info?id=161&token=20230305eptdaz
+#EXTINF:-1 tvg-name="Clarity4K" tvg-logo="0" group-title="4K频道",Clarity4K
+http://api2.52tb.xyz/info?id=162&token=20230305eptdaz
+#EXTINF:-1 tvg-name="爱自然" tvg-logo="0" group-title="4K频道",爱自然
+http://api2.52tb.xyz/info?id=163&token=20230305eptdaz
+#EXTINF:-1 tvg-name="咪咕4K(1)" tvg-logo="0" group-title="4K频道",咪咕4K(1)
+http://api2.52tb.xyz/info?id=164&token=20230305eptdaz
+#EXTINF:-1 tvg-name="咪咕4K(2)" tvg-logo="0" group-title="4K频道",咪咕4K(2)
+http://api2.52tb.xyz/info?id=165&token=20230305eptdaz
 #EXTINF:-1 ,CCTV2 高清
 http://112.89.121.23:80/PLTV/88888973/224/3221225767/10000100000000060000000000337109_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7808,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlG9GiJF+eXKeOHX9LOxR9k:20181110091937,END&GuardEncType=2
 
