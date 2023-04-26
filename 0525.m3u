@@ -32,6 +32,49 @@ http://api2.52tb.xyz/info?id=157&token=20230305eptdaz
 http://api2.52tb.xyz/info?id=901&token=20230305eptdaz
 #EXTINF:-1 tvg-name="4K-UHD" tvg-logo="0" group-title="4K频道",4K-UHD
 http://api2.52tb.xyz/info?id=158&token=20230305eptdaz
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV1.png" group-title="央视(线路1)",CCTV1
+http://api2.52tb.xyz/info?id=2&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="央视(线路1)",CCTV7
+http://api2.52tb.xyz/info?id=9&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="央视(线路1)",CCTV8
+http://api2.52tb.xyz/info?id=10&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="央视(线路1)",CCTV9
+http://api2.52tb.xyz/info?id=11&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="央视(线路1)",CCTV10
+http://api2.52tb.xyz/info?id=12&token=20230305eptdaz
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="卫视(线路1)",深圳卫视
+http://api2.52tb.xyz/info?id=28&token=20230305eptdaz
+
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV1.png" group-title="央视(线路2)",CCTV1
+http://api2.52tb.xyz/info?id=53&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="央视(线路2)",CCTV7
+http://api2.52tb.xyz/info?id=60&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="央视(线路2)",CCTV8
+http://api2.52tb.xyz/info?id=61&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="央视(线路2)",CCTV9
+http://api2.52tb.xyz/info?id=62&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="央视(线路2)",CCTV10
+http://api2.52tb.xyz/info?id=63&token=20230305eptdaz
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="卫视(线路2)",深圳卫视
+http://api2.52tb.xyz/info?id=79&token=20230305eptdaz
+
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV1.png" group-title="央视(线路3)",CCTV1
+http://api2.52tb.xyz/info?id=104&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV7.png" group-title="央视(线路3)",CCTV7
+http://api2.52tb.xyz/info?id=111&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV8.png" group-title="央视(线路3)",CCTV8
+http://api2.52tb.xyz/info?id=112&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV9.png" group-title="央视(线路3)",CCTV9
+http://api2.52tb.xyz/info?id=113&token=20230305eptdaz
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://124.220.17.172:1100/CCTV/CCTV10.png" group-title="央视(线路3)",CCTV10
+http://api2.52tb.xyz/info?id=114&token=20230305eptdaz
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://124.220.17.172:1100/ws/shenzhen.png" group-title="卫视(线路3)",深圳卫视
+http://api2.52tb.xyz/info?id=130&token=20230305eptdaz
+
+
 #EXTINF:-1 tvg-name="4K影视1" tvg-logo="0" group-title="4K频道",4K影视1
 http://api2.52tb.xyz/info?id=159&token=20230305eptdaz
 #EXTINF:-1 tvg-name="4K影视2" tvg-logo="0" group-title="4K频道",4K影视2
