@@ -56,8 +56,6 @@ https://tv.iill.top/migu/cctv8
 https://tv.iill.top/migu/cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="•央视「MiGu」",CCTV10
 https://tv.iill.top/migu/cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="•央视「MiGu」",CCTV11
-https://tv.iill.top/migu/cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="•央视「MiGu」",CCTV12
 https://tv.iill.top/migu/cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="•央视「MiGu」",CCTV13
@@ -109,8 +107,6 @@ http://220.178.228.153:1935/live/cctv5/playlist.m3u8
 http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV-5+ 体育赛事
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-#EXTINF:-1 ,CCTV-5+ 体育赛事（声音）
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 #EXTINF:-1 ,CCTV-6 电影
 https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1 ,CCTV-6 电影
@@ -133,8 +129,6 @@ https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 http://103.112.191.9:880/LAOSAT1062.m3u8
 #EXTINF:-1 ,CCTV-10 科教
 https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 ,CCTV-11 戏曲
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 #EXTINF:-1 ,CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 ,CCTV-13 新闻
