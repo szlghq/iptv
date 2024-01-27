@@ -11,6 +11,8 @@ https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 ,CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="YouTube「P」",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 ,深圳卫视 高清
 http://112.89.121.23:80/PLTV/88888973/224/3221225708/10000100000000060000000000334657_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7856,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmQnlYPqLd2pxEJA0K89iEq:20181110091937,END&GuardEncType=2
 
@@ -20,8 +22,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="YouTube「P」",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="•特色",广东卫视
 http://113.117.74.17:8081/hls/140/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="•央视「MiGu」",CCTV1
